@@ -2,7 +2,7 @@
 
 Building payment rails, AI infrastructure and systems that scale.
 
-![Banner](https://i.imgur.com/TramXzT.png)
+![Banner]([https://i.imgur.com/TramXzT.png](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A3djRtb2pkOTFxdmY2Nmxhd2tqaHlpNWViN3d1eG1xZ3c4cGdtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tGHh1Klt5qdRdzoSwZ/giphy.gif))
 
 ## Tech Stack
 
@@ -24,4 +24,4 @@ Building payment rails, AI infrastructure and systems that scale.
 
 If you're building something serious, I’m open to talk.
 
-![Saiba Momoi](https://media.tenor.com/m85_Xl4i87QAAAAi/blue-archive-momoi.gif)
+![Saiba Momoi](ht[tps://media.tenor.com/m85_Xl4i87QAAAAi/blue-archive-momoi.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w0aHJsM3U5Yng5cnJ5OHZyNTk4YXA2eXJqY3hveDcxZHY4MXRyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QfCQQQAI860CXZY9qs/giphy.gif))
